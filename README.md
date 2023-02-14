@@ -56,19 +56,19 @@ Live Server
 ### Setup
 
 Clone this repository to your desired folder: 
-git@github.com:Gmanlove/Hello-Microverse.git
+https://github.com/tomdan-ai/Hello-Microverse.git
 
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
 
-- GitHub: [Gmanlove](https://github.com/Gmanlove)
+- GitHub: [tomdan-ai](https://github.com/tomdan-ai)
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Stephen Okhaishie
+I would like to thank Emmnauel Obi
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
