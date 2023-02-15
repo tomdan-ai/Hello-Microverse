@@ -38,6 +38,13 @@ I did this project by creating repository where i coded some text 'Hello Microve
 ## 🛠️ Built With <a name="built-with"></a>
 - HTML 
 - CSS
+## Key Features
+
+[Linters] Setup linters and learn how to use HTML and CSS linters
+
+[gitignore] Learn how to create gitignore file and add test.md and node module files in them
+
+[branch] Learn how to document professionally by crating branch
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -52,6 +59,9 @@ Basic knownledge of Computer
 In order to run this project you need:
 Live Server
 
+### Future Features
+
+ [Linters]In future i will add javascript linters
 
 ### Setup
 
