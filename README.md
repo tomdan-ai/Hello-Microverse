@@ -62,6 +62,8 @@ Live Server
 ### Future Features
 
  [Linters]In future i will add javascript linters
+ [Images]In future i will add images
+ [style]In future more styling will be applie 
 
 ### Setup
 
