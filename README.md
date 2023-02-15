@@ -38,6 +38,13 @@ I did this project by creating repository where i coded some text 'Hello Microve
 ## 🛠️ Built With <a name="built-with"></a>
 - HTML 
 - CSS
+## Key Features
+
+[Linters] Setup linters and learn how to use HTML and CSS linters
+
+[gitignore] Learn how to create gitignore file and add test.md and node module files in them
+
+[branch] Learn how to document professionally by crating branch
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -52,23 +59,28 @@ Basic knownledge of Computer
 In order to run this project you need:
 Live Server
 
+### Future Features
+
+ [Linters]In future i will add javascript linters
+ [Images]In future i will add images
+ [style]In future more styling will be applie 
 
 ### Setup
 
 Clone this repository to your desired folder: 
-git@github.com:Gmanlove/Hello-Microverse.git
+https://github.com/tomdan-ai/Hello-Microverse.git
 
 
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
 
-- GitHub: [Gmanlove](https://github.com/Gmanlove)
+- GitHub: [tomdan-ai](https://github.com/tomdan-ai)
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Stephen Okhaishie
+I would like to thank Emmnauel Obi
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
